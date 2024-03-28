@@ -1,0 +1,138 @@
+header{
+    font-size: 30px;
+ 
+    text-decoration: none;
+    background-color:white ;
+    
+}
+
+.red{
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+    gap:10px;
+    justify-content: center;
+    margin-left: 30px;
+    
+    
+}
+.red ol a{
+    color: black;
+}
+.over{
+    justify-content: center;
+}
+footer{
+    text-align: center;
+}
+
+
+#black:hover{
+    color:green;
+}
+#about:hover{
+    color:green;
+}
+#service:hover{
+    color:green;
+}
+#product:hover{
+    color:green;
+}
+#contact:hover{
+    color:green;
+}
+
+
+a{
+    text-decoration: none;
+    
+align-items: center;
+   
+    
+
+}
+ol{
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    gap:20px;
+    
+    
+}
+
+#sign{
+    display:flex;
+    margin-left: 70px;
+    
+    padding:5px;
+    border:none;
+    background-color:green;
+    border-radius: 10px;
+    font-size: large;
+}
+#sign:hover{
+    color:red;
+}
+
+.img{
+    display:flex;
+}
+
+
+.img {
+    position: absolute; /* Set absolute positioning for the text container */
+    top: 20px; /* Position the text at the top of the parent container */
+    left: 100px; /* Position the text at the left of the parent container */
+    z-index: 1; /* Ensure the text appears above the image */
+}
+.inner {
+    position: relative; /* Set relative positioning for the parent container */
+}
+.img p{
+    font-size: 50px;
+    color:rgb(7, 0, 139);
+}
+.box{
+    background-color:#33AB5f;
+    height: 200px;
+    width:250px;
+    font-size: 40px;
+    text-align: center;
+    
+    
+}
+.bx{
+    background-color:#33AB5f;
+    height: 200px;
+    width:250px;
+    font-size: 40px;
+    text-align: center;
+
+}
+.bx0{
+    background-color:#33AB5f;
+    height: 200px;
+    width:250px;
+    font-size: 40px;
+    text-align: center;
+}
+.b0x{
+    background-color:#33AB5f;
+    height: 200px;
+    width:250px;
+    font-size: 40px;
+    text-align: center;
+}
+.all{
+    position: absolute;
+    display:flex;
+    z-index: index 1px;
+    top:30px;
+    gap:20px;
+    top:30px;
+    margin-top: 25%;
+    margin-left: 250px;
+}
+
+
